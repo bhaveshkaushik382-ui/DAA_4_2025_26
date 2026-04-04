@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+// double linked_list
 class Node{
     public:
     int data;
